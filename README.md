@@ -371,7 +371,7 @@ integration_test/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/resilient-payment-app.git
+git clone  https://github.com/michael-stac/-AortaStartupStudiosTest.git
 
 # 2. Navigate to project directory
 cd resilient-payment-app
